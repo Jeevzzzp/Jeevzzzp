@@ -1,4 +1,4 @@
-# Hi, I'm Jeeva 👋
+# Hi, I'm Jeevanandhan P 👋
 
 ### 🚀 AI-Augmented Data Analyst | SQL Specialist | ERP & Business Intelligence Professional
 
