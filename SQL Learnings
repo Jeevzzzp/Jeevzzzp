@@ -1,0 +1,26 @@
+SQL-Learning-Journey/
+│
+├── README.md
+├── 01-Basics/
+│   ├── SELECT.sql
+│   ├── WHERE.sql
+│   ├── ORDER_BY.sql
+│   └── Notes.md
+│
+├── 02-Joins/
+│   ├── INNER_JOIN.sql
+│   ├── LEFT_JOIN.sql
+│   ├── RIGHT_JOIN.sql
+│   ├── FULL_JOIN.sql
+│   └── Notes.md
+│
+├── 03-Aggregations/
+│   ├── GROUP_BY.sql
+│   ├── HAVING.sql
+│   └── Notes.md
+│
+├── 04-Subqueries/
+├── 05-CTEs/
+├── 06-Window-Functions/
+├── 07-Case-Studies/
+└── 08-Interview-Questions/
